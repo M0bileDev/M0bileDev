@@ -1,5 +1,3 @@
-val 
-
 ```kotlin
 
 M0bileDev = developer {
