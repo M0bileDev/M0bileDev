@@ -18,7 +18,7 @@ M0bileDev = developer {
         data = [SQL, REST API]
     }
     currentlyLearning {
-        focus = [Compose Multiplatform, KMP]
+        focus = [Compose Multiplatform, KMP, SwiftUI]
         projects = ["ChirpAppKMP", "HIITFitios"]
     }
 }
