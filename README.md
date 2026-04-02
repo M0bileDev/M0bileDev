@@ -9,7 +9,7 @@ M0bileDev = developer {
         github = "https://github.com/Damian9696"
     }
     technologies {
-        mobile = [Android SDK, Kotlin, Compose, Android View, Android Jetpack, Dagger Hilt]
+        mobile = [Android SDK, Kotlin, Compose, Android View, Android Jetpack, Dagger Hilt, Koin]
         multiplatform = [KMP, Flutter]
         ios = [Swift, SwiftUI]
         async = [Coroutines, RxJava]
