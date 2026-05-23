@@ -19,7 +19,7 @@ M0bileDev = developer {
     }
     currentlyLearning {
         focus = [Compose Multiplatform, KMP, SwiftUI]
-        projects = ["ChirpAppKMP", "CardsiOS"]
+        projects = ["ChirpAppKMP", "TheMet"]
     }
 }
 ```
